@@ -33,7 +33,7 @@ const Achievements = () => {
               </div>
             </div>
             <p>
-               Successfully solved over 200 data structure and algorithm problems, focusing on <Java></Java> and optimization.
+               Successfully solved over 200 data structure and algorithm problems, focusing on Java and optimization.
             </p>
           </div>
         </div>

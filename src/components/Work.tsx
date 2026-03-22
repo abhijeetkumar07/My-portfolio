@@ -8,19 +8,19 @@ const projects = [
     title: "Algo Ally Suite",
     category: "Full Stack Platform",
     tools: "Java, React, Tailwind, Spring Boot, GraphSQL",
-    image: "/images/Allgo-ally.png",
+    image: import.meta.env.BASE_URL + "images/Allgo-ally.png",
   },
   {
     title: "Attendance Tracker",
     category: "Cloud-Based System",
     tools: "Node.js, Express, Docker, HTML/CSS",
-    image: "/images/Cloudbase-attendance.png",
+    image: import.meta.env.BASE_URL + "images/Cloudbase-attendance.png",
   },
   {
     title: "Podcast Chatbot",
     category: "AI/ML & Full Stack",
     tools: "Python, Spotify API, HTML, CSS",
-    image: "/images/Podcast-recommendar.png",
+    image: import.meta.env.BASE_URL + "images/Podcast-recommendar.png",
   },
 ];
 
